@@ -17,19 +17,19 @@
 
 ## 一、网络篇
 **1.1 内核收发包原理**
-- [🔥图解Linux网络包接收过程](https://mp.weixin.qq.com/s/GoYDsfy9m0wRoXi_NCfCmg)
-- [🔥25 张图，一万字，拆解 Linux 网络包发送过程](https://mp.weixin.qq.com/s/wThfD9th9e_-YGHJJ3HXNQ) 
+- [🔥图解Linux网络包接收过程](https://mp.weixin.qq.com/s/GoYDsfy9m0wRoXi_NCfCmg) F
+- [🔥25 张图，一万字，拆解 Linux 网络包发送过程](https://mp.weixin.qq.com/s/wThfD9th9e_-YGHJJ3HXNQ) F
 - [Linux网络包接收过程的监控与调优](https://mp.weixin.qq.com/s/6iQ-OhEbQJbEcgi9kakSjg)
-- [🔥127.0.0.1 之本机网络通信过程知多少 ?！](https://mp.weixin.qq.com/s/6_OfoeD3ZpyQisY2F-4_bw)  
-- [本机网络IO之Unix Domain Socket与普通socket的性能对比](https://mp.weixin.qq.com/s/fHzKYlW0WMhP2jxh2H_59A) &nbsp;&nbsp;[实验使用源码](https://github.com/rigtorp/ipc-bench)
+- [🔥127.0.0.1 之本机网络通信过程知多少 ?！](https://mp.weixin.qq.com/s/6_OfoeD3ZpyQisY2F-4_bw) F 
+- [本机网络IO之Unix Domain Socket与普通socket的性能对比](https://mp.weixin.qq.com/s/fHzKYlW0WMhP2jxh2H_59A) &nbsp;&nbsp;[实验使用源码](https://github.com/rigtorp/ipc-bench) F
 
 **1.2 内核如何与用户进程协作**
-- [图解 | 深入理解高性能网络开发路上的绊脚石 - 同步阻塞网络 IO](https://mp.weixin.qq.com/s/cIcw0S-Q8pBl1-WYN0UwnA) 
-- [🔥图解 | 深入揭秘 epoll 是如何实现 IO 多路复用的！](https://mp.weixin.qq.com/s/OmRdUgO1guMX76EdZn11UQ)
+- [图解 | 深入理解高性能网络开发路上的绊脚石 - 同步阻塞网络 IO](https://mp.weixin.qq.com/s/cIcw0S-Q8pBl1-WYN0UwnA) F
+- [🔥图解 | 深入揭秘 epoll 是如何实现 IO 多路复用的！](https://mp.weixin.qq.com/s/OmRdUgO1guMX76EdZn11UQ)F 
 - [漫画 | 看进程小 P 讲述它的网络性能故事！](https://mp.weixin.qq.com/s/r7EDYsvVhWA2fv52mwM_zg) 
 
 **1.3 TCP之三次握手**
-- [为什么服务端程序都需要先 listen 一下？](https://mp.weixin.qq.com/s/hv2tmtVpxhVxr6X-RNWBsQ)
+- [为什么服务端程序都需要先 listen 一下？](https://mp.weixin.qq.com/s/hv2tmtVpxhVxr6X-RNWBsQ) F
 - [深入理解Linux端口重用这一特性](https://mp.weixin.qq.com/s/SYCUMvzktgeGbyAfRdqhmg) &nbsp;&nbsp;[配套实验源码](https://github.com/yanfeizhang/coder-kung-fu/blob/main/tests/network/test08/server.c)
 - [绑定特殊 IP 之 0.0.0.0 的内部工作原理](https://mp.weixin.qq.com/s/IOs39stus5C2K6RQFc5CQQ)
 - [TCP连接中客户端的端口号是如何确定的？](https://mp.weixin.qq.com/s/C-Eeoeh9GHxugF4J30fz1A)
